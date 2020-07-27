@@ -1,5 +1,4 @@
 # fitness-tracker
-https://fitness-tracking-app.herokuapp.com/
 
 ## User Story
 
